@@ -1,1 +1,0 @@
-# swipely-storybook
